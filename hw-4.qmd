@@ -1,0 +1,36 @@
+---
+title: "STA 313 - Spring 2024 - HW 4"
+subtitle: "Mapping about"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+```{r}
+#| label: load-packages
+#| message: false
+
+# add other packages as needed or remove comment
+```
+
+## 1 - A second chance.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 2 - New York state of counties.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 3 - New York state of population change.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 4 - New York state of regions.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 5 - New York state of patchwork.
+
+Add parts, narrative, and/or code chunks as needed.
